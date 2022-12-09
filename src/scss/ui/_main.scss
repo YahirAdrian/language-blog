@@ -1,2 +1,8 @@
 @use 'custom' as *;
 
+article h3{
+    color: #108cc2;
+    font-size: 28px;
+    border-bottom: 5px solid #fae1ad;
+    width: fit-content;
+}

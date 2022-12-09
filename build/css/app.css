@@ -10801,6 +10801,13 @@ textarea.form-control-lg {
   background-color: #090909;
 }
 
+article h3 {
+  color: #108cc2;
+  font-size: 28px;
+  border-bottom: 5px solid #fae1ad;
+  width: fit-content;
+}
+
 .card {
   cursor: pointer;
   transition: all 0.5s;
