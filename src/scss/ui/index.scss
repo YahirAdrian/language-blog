@@ -1,0 +1,5 @@
+@use 'custom' as *;
+@forward 'header';
+@forward 'main';
+@forward 'card';
+@forward 'outline';

@@ -1,0 +1,32 @@
+// COLOR PALETTE
+$primary: #1c5a75;
+$secondary: #f2ac1f5d;
+$white: #FFFFFF;
+$ligth: #FBFCFE;
+$dark: #090909;
+$shadow: #ffffff1a 0px 1px 1px 0px inset, #32325d40 0px 50px 100px -20px, #0000004d 0px 30px 60px -30px;
+
+// FONT
+$font-family-base: 'Lato', sans-serif;
+$headings-font-family: 'Lato', serif;
+
+// NAVLINKS
+
+// HEADINGS
+$h1-font-size: 2.25rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.5rem;
+$h4-font-size: 1.25rem;
+$headings-font-weight: 400;
+
+h1, h2, h3, h4, h5{
+    color: $primary;
+    font-weight: bold;
+}
+
+p{
+    color: #090909cb;
+}
+// UTILITIES
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
